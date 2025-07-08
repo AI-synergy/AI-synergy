@@ -14,7 +14,7 @@ I am an AI enthusiast with a master's degree in Digital Engineering and a passio
 ---
 
 ## 💼 Professional Experience
-### **Generative AI Engineer** - Longtermhealth GmbH
+### **AI Engineer** - Longtermhealth GmbH
 - Created scalable solutions for visualizing muscle activations using OpenCV and XML annotations.
 - Optimized data processing pipelines, enhancing accuracy and cost-efficiency in query handling.
 - Automated personalized visual feedback systems, improving user engagement in fitness routines.
